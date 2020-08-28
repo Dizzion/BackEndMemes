@@ -15,7 +15,7 @@
 	<description>Backend for All the Memes App</description>
 
 	<properties>
-		<java.version>14</java.version>
+		<java.version>$JAVA_HOME</java.version>
 	</properties>
 
 	<dependencies>
